@@ -7,5 +7,7 @@ int main() {
 	i =2 + e;
 	char c = 'a';
 	int a = i;
+	char d = c;
+
 	return 0;
 }
