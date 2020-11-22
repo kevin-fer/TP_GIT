@@ -6,6 +6,6 @@ int main() {
 	std::cout << "Hello world" << std::endl;
 	i =2 + e;
 	char c = 'a';
-
+	int a = i;
 	return 0;
 }
